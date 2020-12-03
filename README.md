@@ -1,1 +1,2 @@
-# C41-CarRacingGame-7-LB
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
